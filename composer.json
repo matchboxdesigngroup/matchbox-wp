@@ -30,9 +30,14 @@
 	},
 	"extra": {
 		"installer-paths": {
-			"plugins/{$name}/": [
+			"wp-content/plugins/{$name}/": [
 				"type:wordpress-plugin"
 			]
+		}
+	},
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true
 		}
 	}
 }

@@ -18,7 +18,8 @@
 		}
 	],
 	"require": {
-		"php": ">=8.2"
+		"php": ">=8.2",
+		"wpackagist-plugin/icon-block": "*"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,

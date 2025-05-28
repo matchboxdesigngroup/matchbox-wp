@@ -40,6 +40,7 @@ wp-content/wp-cache-config.php
 # Theme specific
 
 # Plugin specific
+!wp-content/plugins/matchbox-core-features/
 
 # WP Engine specific (Remove if not hosting with WP Engine)
 .smushit-status

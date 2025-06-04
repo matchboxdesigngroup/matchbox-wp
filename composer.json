@@ -19,7 +19,8 @@
 	],
 	"require": {
 		"php": ">=8.2",
-		"wpackagist-plugin/icon-block": "*"
+		"wpackagist-plugin/icon-block": "*",
+		"wpackagist-plugin/safe-svg": "*"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,

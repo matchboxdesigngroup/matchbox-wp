@@ -1,0 +1,20 @@
+{
+	"name": "matchbox/core-features",
+	"description": "The starting point for all Matchbox WordPress plugins.",
+	"license": "MIT",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Matchbox"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Matchbox\\CoreFeatures\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=8.2"
+	},
+	"scripts": {}
+}

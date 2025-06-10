@@ -23,3 +23,5 @@ package-lock.json
 phpcs.xml
 README.md
 *.code-workspace
+wp-config-sample.php
+wp-config.php

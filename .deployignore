@@ -1,0 +1,27 @@
+## Directories to ignore
+.cursor/**
+.ddev/**
+.git/**
+.github/**
+.vscode/**
+log/**
+node_modules/**
+**/node_modules/**
+
+## Files to ignore
+.env
+.env.*
+.DS_Store
+.deployignore
+.gitignore
+.gitmodules
+CHANGELOG.md
+composer.json
+composer.lock
+package.json
+package-lock.json
+phpcs.xml
+README.md
+*.code-workspace
+wp-config-sample.php
+wp-config.php
